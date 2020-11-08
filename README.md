@@ -4,15 +4,15 @@ Evento realizado pelo projeto [Fullcycle](https://www.youtube.com/channel/UCMUoZ
 
 Onde o intuito é adquirir experiência com arquitetura de microservices, em um estudo de caso atual,  com tecnologias atuais, elevando o nosso conhecimento profissional.
 
-##Atenção !!
+## Atenção !!
 Esse repositório é para a coreção das atividades propostas no evento, nada mais, nada menos.
 
 Créditos do código totais aos organizadores do evento mencionados acima !
 
-##Desafio 1
+## Desafio 1
 Foi tem uma pasta dedicada a ele.
 
-##Desafio 2
+## Desafio 2
 
 Seguem as imagens dos microservices se comunicando com o RabbitMQ:
 
@@ -24,3 +24,6 @@ Seguem as imagens dos microservices se comunicando com o RabbitMQ:
 
 ### Erro de Conexão:
 [![Erro de Conexão](https://i.imgur.com/mDVMBD9.png "Erro de Conexão")](https://i.imgur.com/mDVMBD9.png "Erro de Conexão")
+
+## Desafio 3 (Aula 4)
+Segue o Link do meu [hub.docker](https://hub.docker.com/r/wy7images/avancadev "hub.docker")
